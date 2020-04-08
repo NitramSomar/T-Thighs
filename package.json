@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NitramSomar/T-Thighs.git"
+    "url": "https://github.com/T-Thighs/ThunderThighs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NitramSomar/T-Thighs/issues"
+    "url": "https://github.com/T-Thighs/ThunderThighs/issues"
   },
-  "homepage": "https://github.com/NitramSomar/T-Thighs#readme",
+  "homepage": "https://github.com/T-Thighs/ThunderThighs#readme",
   "dependencies": {
     "axios": "0.19.2",
     "bluebird": "^3.7.2",
